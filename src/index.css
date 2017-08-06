@@ -1,9 +1,11 @@
 body {
   font-family: 'Roboto', sans-serif;
+  background: url('./bg.png') no-repeat cover;
 }
 
+#root {
+  background: url('./bg.png') no-repeat cover;
+}
 * {
   margin: 0;
 }
-
-
