@@ -9,7 +9,7 @@
     "react-dom": "^15.5.4",
     "react-router": "^4.1.1",
     "react-router-dom": "^4.1.1",
-    "yarn": "^1.17.3"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "react-scripts": "1.0.1"
